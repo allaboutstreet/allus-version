@@ -19,15 +19,29 @@
         <item>
             <title>v1.0.2</title>
             <sparkle:version>1.0.2</sparkle:version>
-            <description>- iOS 새 기능12
-- iOS 새 기능2
-- iOS 버그 픽스
+            <description>더 나은 서비스를 위하여 앱을 업데이트 하시기 바랍니다.
+- iOS 새 기능 출시
+- iOS 새 기능2 출시
+- 버그 픽스 및 안정화
             </description>
             <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
-            <!--<sparkle:tags>
-                <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags>-->
             <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="iOS" />
         </item>
+        <!-- 강제 업데이트
+        <item>
+            <title>v1.0.2</title>
+            <sparkle:version>1.0.2</sparkle:version>
+            <description>안정적인 서비스 사용을 위해 최신 버전 업데이트가 필요합니다.
+- iOS 새 기능 출시
+- iOS 새 기능2 출시
+- 버그 픽스 및 안정화
+            </description>
+            <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="iOS" />
+        </item>
+        -->
     </channel>
 </rss>
