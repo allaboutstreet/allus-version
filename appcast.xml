@@ -14,9 +14,9 @@
         <!-- iOS -->
         <item>
             <title>v4.0.0</title>
-            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:version>1.0.2</sparkle:version>
             <sparkle:os>iOS</sparkle:os>
-            <description>- 새 기능123</description>
+            <description>- 새 기능1</description>
             <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi"/>
         </item>
