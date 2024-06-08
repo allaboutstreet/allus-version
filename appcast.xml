@@ -4,21 +4,30 @@
         <description>Allus updates</description>
         <!-- Android -->
         <item>
-            <title>v4.0.0</title>
+            <title>v1.0.4</title>
             <sparkle:version>1.0.4</sparkle:version>
-            <sparkle:os>android</sparkle:os>
-            <description>업데이트가 되었습니다!</description>
+            <description><![CDATA[
+            - 안드 새 기능1
+            - 안드 새 기능2
+            - 안드 버그 픽스
+            ]]>
+            </description>
             <pubDate>Fri, 21 Oct 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="android" />
         </item>
         <!-- iOS -->
         <item>
-            <title>v4.0.0</title>
+            <title>v1.0.2</title>
             <sparkle:version>1.0.2</sparkle:version>
-            <sparkle:os>iOS</sparkle:os>
-            <description>- 새 기능1</description>
+            <description><![CDATA[
+            - iOS 새 기능1
+            - iOS 새 기능2
+            - iOS 버그 픽스
+            ]]>
+            </description>
             <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi"/>
+            <sparkle:criticalUpdate sparkle:version="1.0.1"></sparkle:criticalUpdate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
