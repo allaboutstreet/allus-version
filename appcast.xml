@@ -19,10 +19,12 @@
         <item>
             <title>v1.0.2</title>
             <sparkle:version>1.0.2</sparkle:version>
-            <description>- iOS 새 기능1\n- iOS 새 기능2\n- iOS 버그 픽스
+            <description>- iOS 새 기능11\n- iOS 새 기능2\n- iOS 버그 픽스
             </description>
             <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
-            <sparkle:criticalUpdate sparkle:version="1.0.1"></sparkle:criticalUpdate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags>
             <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="iOS" />
         </item>
     </channel>
