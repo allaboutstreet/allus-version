@@ -6,17 +6,19 @@
         <item>
             <title>v4.0.0</title>
             <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:os>android</sparkle:ios>
             <description>업데이트가 되었습니다!</description>
             <pubDate>Fri, 21 Oct 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi"/>
         </item>
         <!-- iOS -->
         <item>
             <title>v4.0.0</title>
             <sparkle:version>1.0.1</sparkle:version>
-            <description>- 새 기능\n- 새 기능2\n- 버그 픽스</description>
+            <sparkle:os>iOS</sparkle:os>
+            <description>- 새 기능123</description>
             <pubDate>Tue, 13 Oct 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi" sparkle:os="iOS" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.develop.hanoi"/>
         </item>
     </channel>
 </rss>
