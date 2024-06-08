@@ -19,7 +19,9 @@
         <item>
             <title>v1.0.2</title>
             <sparkle:version>1.0.2</sparkle:version>
-            <description>더 나은 서비스를 위하여 앱을 업데이트 하시기 바랍니다.
+            <description>
+더 나은 서비스를 위하여 앱을 업데이트 하시기 바랍니다.
+
 - iOS 새 기능 출시
 - iOS 새 기능2 출시
 - 버그 픽스 및 안정화
@@ -31,7 +33,9 @@
         <item>
             <title>v1.0.2</title>
             <sparkle:version>1.0.2</sparkle:version>
-            <description>안정적인 서비스 사용을 위해 최신 버전 업데이트가 필요합니다.
+            <description>
+안정적인 서비스 사용을 위해 최신 버전 업데이트가 필요합니다.
+
 - iOS 새 기능 출시
 - iOS 새 기능2 출시
 - 버그 픽스 및 안정화
