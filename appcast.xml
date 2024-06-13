@@ -4,17 +4,17 @@
         <description>Allus updates</description>
         <!-- Android -->
         <item>
-            <title>v1.0.0</title>
-            <sparkle:version>1.0.0</sparkle:version>
-            <description>서비스 런칭 버전</description>
+            <title>v0.0.1</title>
+            <sparkle:version>0.0.1</sparkle:version>
+            <description>서비스 테스트 버전</description>
             <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fire.allus" sparkle:os="android" />
         </item>
         <!-- iOS -->
         <item>
-            <title>v1.0.0</title>
-            <sparkle:version>1.0.0</sparkle:version>
-            <description>서비스 런칭 버전</description>
+            <title>v0.0.1</title>
+            <sparkle:version>0.0.1</sparkle:version>
+            <description>서비스 테스트 버전</description>
             <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/kr/app/allus/id6448311069" sparkle:os="iOS" />
         </item>
